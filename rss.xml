@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Varning för Villeroy & Boch]]></title>
         <description><![CDATA[Varning för Villeroy & Boch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/varning-foer-villeroy-and-boch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 19:46:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 08 Jun 2016 19:54:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/varning-foer-villeroy-and-boch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Villeroy & Boch säljer något så märkligt som barnbestick som inte går att diska i maskin. Ja, du läste rätt. Helt utan märkning eller varningstext. Besticken är jättefina och barnet som får dem blir jätteglad - tills föräldrarna har diskat besticken i maskin. Då blir de fina motiven förstörda, och det glada barnet ledset.Jag har såklart påtalat detta för Villeroy & Boch, som tycker att eftersom det inte står att besticken kan diskas i maskin kan man inte förvänta sig att det fungerar. Seriöst, Villeroy & Boch, hur många barnfamiljer tror ni diskar för hand år 2016?</p>]]></description>
-            <link>undefinedvilleroy-and-boch-saljer-nagot-sa-markligt-som-barnbestick-som/index.html</link>
+            <link>https://thegrid.ai/varning-foer-villeroy-and-boch/villeroy-and-boch-saljer-nagot-sa-markligt-som-barnbestick-som/index.html</link>
             <guid isPermaLink="false">20ee985b-73a2-4cf0-8f08-a38eb6151999</guid>
-            <pubDate>Wed, 08 Jun 2016 19:46:40 GMT</pubDate>
+            <pubDate>Wed, 08 Jun 2016 19:54:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
