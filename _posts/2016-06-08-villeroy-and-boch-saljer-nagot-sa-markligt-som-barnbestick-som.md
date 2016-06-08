@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   Villeroy & Boch säljer något så märkligt som barnbestick som inte går att
   diska i maskin. 
-datePublished: '2016-06-08T21:32:08.377Z'
-dateModified: '2016-06-08T21:26:53.429Z'
+datePublished: '2016-06-08T21:41:02.204Z'
+dateModified: '2016-06-08T21:40:05.102Z'
 title: ''
 author: []
 sourcePath: >-
