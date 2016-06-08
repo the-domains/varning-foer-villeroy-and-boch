@@ -5,16 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  Villeroy & Boch säljer något så märkligt som barnbestick som inte går att
-  diska i maskin. Ja, du läste rätt. Helt utan märkning eller varningstext.
-  Besticken är jättefina och barnet som får dem blir jätteglad - tills
-  föräldrarna har diskat besticken i maskin. Då blir de fina motiven förstörda,
-  och det glada barnet ledset.Jag har såklart påtalat detta för Villeroy & Boch,
-  som tycker att eftersom det inte står att besticken kan diskas i maskin kan
-  man inte förvänta sig att det fungerar. Seriöst, Villeroy & Boch, hur många
-  barnfamiljer tror ni diskar för hand år 2016?
-datePublished: '2016-06-08T19:54:08.081Z'
-dateModified: '2016-06-08T19:54:01.444Z'
+  Jag har såklart påtalat detta för Villeroy & Boch, som tycker att eftersom det
+  inte står att besticken kan diskas i maskin kan man inte förvänta sig att det
+  fungerar. Seriöst, Villeroy & Boch, hur många barnfamiljer tror ni diskar för
+  hand år 2016?
+datePublished: '2016-06-08T19:54:43.947Z'
+dateModified: '2016-06-08T19:54:39.168Z'
 title: ''
 author: []
 sourcePath: >-
@@ -26,9 +22,9 @@ url: villeroy-and-boch-saljer-nagot-sa-markligt-som-barnbestick-som/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66c3caed-1108-4dd2-b771-8a4c3cb385e4.jpg)
+Villeroy & Boch säljer något så märkligt som barnbestick som inte går att diska i maskin. Ja, du läste rätt. Helt utan märkning eller varningstext. Besticken är jättefina och barnet som får dem blir jätteglad - tills föräldrarna har diskat besticken i maskin. Då blir de fina motiven förstörda, och det glada barnet ledset.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1beb71b-4cf4-4fec-b591-287259960aa8.jpg)
 
-Villeroy & Boch säljer något så märkligt som barnbestick som inte går att diska i maskin. Ja, du läste rätt. Helt utan märkning eller varningstext. Besticken är jättefina och barnet som får dem blir jätteglad - tills föräldrarna har diskat besticken i maskin. Då blir de fina motiven förstörda, och det glada barnet ledset.  
 Jag har såklart påtalat detta för Villeroy & Boch, som tycker att eftersom det inte står att besticken kan diskas i maskin kan man inte förvänta sig att det fungerar. Seriöst, Villeroy & Boch, hur många barnfamiljer tror ni diskar för hand år 2016?
 
 Jag ska i rättvisans namn berätta att när jag påtalade problemet fick jag nya bestick av Villeroy & Boch. Med uppmaningen att diska dem för hand. Vad jag ska göra med de nya besticken vet jag inte, de går ju inte att använda.
