@@ -1,0 +1,28 @@
+name: 'Varning för Villeroy & Boch'
+favicon: null
+layout_spectrum: 0.48250744957476854
+typography_spectrum: 0.4620456483680755
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6442205016501248
+  lightness: 0.24810989946126938
+  saturation: 0.5628516701981425
+  rhythmicContrast: 0.2709314674139023
+purpose: []
