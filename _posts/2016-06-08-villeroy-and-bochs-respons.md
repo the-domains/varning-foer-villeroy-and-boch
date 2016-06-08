@@ -9,8 +9,8 @@ description: >-
   inte står att besticken kan diskas i maskin kan man inte förvänta sig att det
   fungerar. Seriöst, Villeroy & Boch, hur många barnfamiljer tror ni diskar för
   hand år 2016?
-datePublished: '2016-06-08T21:33:04.247Z'
-dateModified: '2016-06-08T21:28:55.068Z'
+datePublished: '2016-06-08T21:33:18.796Z'
+dateModified: '2016-06-08T21:33:18.191Z'
 title: ''
 author: []
 authors: []
