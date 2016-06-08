@@ -9,23 +9,25 @@ description: >-
   diska i maskin. Ja, du läste rätt. Helt utan märkning eller varningstext.
   Besticken är jättefina och barnet som får dem blir jätteglad - tills
   föräldrarna har diskat besticken i maskin. Då blir de fina motiven förstörda,
-  och det glada barnet ledset.  Jag har såklart påtalat detta för Villeroy &
-  Boch, som tycker att eftersom det inte står att besticken kan diskas i maskin
-  kan man inte förvänta sig att det fungerar. Seriöst, Villeroy & Boch, hur
-  många barnfamiljer tror ni diskar för hand år 2016?
-datePublished: '2016-06-08T19:46:40.434Z'
-dateModified: '2016-06-08T19:46:07.166Z'
+  och det glada barnet ledset.Jag har såklart påtalat detta för Villeroy & Boch,
+  som tycker att eftersom det inte står att besticken kan diskas i maskin kan
+  man inte förvänta sig att det fungerar. Seriöst, Villeroy & Boch, hur många
+  barnfamiljer tror ni diskar för hand år 2016?
+datePublished: '2016-06-08T19:54:08.081Z'
+dateModified: '2016-06-08T19:54:01.444Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-08-villeroy-and-boch-saljer-nagot-sa-markligt-som-barnbestick-som.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-08-villeroy-and-boch-saljer-nagot-sa-markligt-som-barnbestick-som.md
 url: villeroy-and-boch-saljer-nagot-sa-markligt-som-barnbestick-som/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66c3caed-1108-4dd2-b771-8a4c3cb385e4.jpg)
+
 Villeroy & Boch säljer något så märkligt som barnbestick som inte går att diska i maskin. Ja, du läste rätt. Helt utan märkning eller varningstext. Besticken är jättefina och barnet som får dem blir jätteglad - tills föräldrarna har diskat besticken i maskin. Då blir de fina motiven förstörda, och det glada barnet ledset.  
 Jag har såklart påtalat detta för Villeroy & Boch, som tycker att eftersom det inte står att besticken kan diskas i maskin kan man inte förvänta sig att det fungerar. Seriöst, Villeroy & Boch, hur många barnfamiljer tror ni diskar för hand år 2016?
 
